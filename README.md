@@ -1,4 +1,4 @@
-# The Burger Builder Basic Version
+# The Burger Builder (Basic Version)
 
 src/hoc/Aux.js
 
