@@ -1,6 +1,6 @@
-# The Burger Builder Basic Version
+# The Burger Builder (Basic Version)
 
-src/hoc/Aux.js
+src/hoc/Aux1/Aux.js
 
 const aux = (props) => props.children;
 
